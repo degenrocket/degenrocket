@@ -1,3 +1,11 @@
+Code:
+
+[degenrocket-web]() - web client for DegenRocket instance
+
+[degenrocket-server]() - server for DegenRocket instance
+
+---
+
 Docs:
 
 [dmp]() - Degen Messaging Protocol
