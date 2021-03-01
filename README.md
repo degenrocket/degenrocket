@@ -1,3 +1,9 @@
+Web:
+
+[degenrocket.space](https://degenrocket.space) - DegenRocket playground
+
+---
+
 Code:
 
 [degenrocket-web]() - web client for DegenRocket instance
