@@ -6,22 +6,24 @@ Web:
 
 Code:
 
-[degenrocket-web]() - web client for DegenRocket instance
+[degenrocket-web](https://github.com/degenrocket/degenrocket-web) - web client for DegenRocket instance
 
-[degenrocket-server]() - server for DegenRocket instance
+[degenrocket-server](https://github.com/degenrocket/degenrocket-server) - server for DegenRocket instance
 
 ---
 
 Docs:
 
-[dmp]() - Degen Messaging Protocol
+[dmp](https://github.com/degenrocket/dmp) - Degen Messaging Protocol
 
-[spasm]() - Signer and Protocol Agnostic Social Media
+[spasm](https://github.com/degenrocket/spasm) - Signer and Protocol Agnostic Social Media
 
-[degenrocket-docs]() - DegenRocket documentation
+[degenrocket-docs](https://github.com/degenrocket/degenrocket-docs) - DegenRocket documentation
 
 ---
 
 Contacts:
+
+[Nostr](https://iris.to/npub1kwnsd0xwkw03j0d92088vf2a66a9kztsq8ywlp0lrwfwn9yffjqspcmr0z): npub1kwnsd0xwkw03j0d92088vf2a66a9kztsq8ywlp0lrwfwn9yffjqspcmr0z
 
 [Session](https://getsession.org/): 05acc78108e5c900ac2a541b21fbe1e08b8f94ed2e13c2ea3e03ccb4a86cd4895f
