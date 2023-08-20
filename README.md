@@ -26,4 +26,6 @@ Contacts:
 
 [Nostr](https://iris.to/npub1kwnsd0xwkw03j0d92088vf2a66a9kztsq8ywlp0lrwfwn9yffjqspcmr0z): npub1kwnsd0xwkw03j0d92088vf2a66a9kztsq8ywlp0lrwfwn9yffjqspcmr0z
 
-[Session](https://getsession.org/): 05acc78108e5c900ac2a541b21fbe1e08b8f94ed2e13c2ea3e03ccb4a86cd4895f
+[Session](https://getsession.org/): degenrocket
+
+Send a message on Session if you need help with setting up a server.
