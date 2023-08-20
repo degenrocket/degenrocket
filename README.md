@@ -24,7 +24,7 @@ Docs:
 
 Contacts:
 
-[Nostr](https://iris.to/npub1kwnsd0xwkw03j0d92088vf2a66a9kztsq8ywlp0lrwfwn9yffjqspcmr0z): npub1kwnsd0xwkw03j0d92088vf2a66a9kztsq8ywlp0lrwfwn9yffjqspcmr0z
+[Nostr](https://satellite.earth/@npub1kwnsd0xwkw03j0d92088vf2a66a9kztsq8ywlp0lrwfwn9yffjqspcmr0z): npub1kwnsd0xwkw03j0d92088vf2a66a9kztsq8ywlp0lrwfwn9yffjqspcmr0z
 
 [Session](https://getsession.org/): degenrocket
 
