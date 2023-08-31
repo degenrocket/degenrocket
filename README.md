@@ -1,6 +1,8 @@
-Web:
+DegenRocket web instances:
 
-[degenrocket.space](https://degenrocket.space) - DegenRocket playground
+[degenrocket.space](https://degenrocket.space) (since 2021) - DeFi, NFT, privacy news aggregator
+
+[dark.vegas](https://dark.vegas) (since 2023) - lunarpunk anti-memecoins (BLOOD, VAMPIRES)
 
 ---
 
@@ -18,7 +20,7 @@ Docs:
 
 [spasm](https://github.com/degenrocket/spasm) - Signer and Protocol Agnostic Social Media
 
-[degenrocket-docs](https://github.com/degenrocket/degenrocket-docs) - DegenRocket documentation
+[degenrocket-docs](https://github.com/degenrocket/degenrocket-docs) - DegenRocket documentation and installation guide
 
 ---
 
