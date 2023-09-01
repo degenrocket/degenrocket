@@ -12,6 +12,8 @@ Code:
 
 [degenrocket-server](https://github.com/degenrocket/degenrocket-server) - server for DegenRocket instance
 
+[degenrocket-scripts](https://github.com/degenrocket/degenrocket-scripts) - scripts for managing DegenRocket server
+
 ---
 
 Docs:
