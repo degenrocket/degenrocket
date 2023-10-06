@@ -4,6 +4,8 @@ DegenRocket web instances:
 
 [dark.vegas](https://dark.vegas) (since 2023) - lunarpunk anti-memecoins (BLOOD, VAMPIRES)
 
+[simplifiedprivacy](https://vid.simplifiedprivacy.com) (since 2023) - Digital Freedom Platform covering Web 3, VPNs, Tor, Linux, Monero, etc.
+
 ---
 
 Code:
