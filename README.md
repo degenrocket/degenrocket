@@ -1,3 +1,9 @@
+The Signer and Protocol Agnostic Social Media (SPASM) network consists of independent self-hosted interoperable instances run by DAOs, local communities, and other freedom seekers who want to escape censorship and surveillance of centralized platforms.
+
+DegenRocket is the first free and open-source off-chain online forum within the SPASM network, which currently allows users to sign messages with Ethereum and Nostr private keys. More private keys are planned to be added in the future.
+
+---
+
 DegenRocket web instances:
 
 [degenrocket.space](https://degenrocket.space) (since 2021) - DeFi, NFT, privacy news aggregator
@@ -34,4 +40,7 @@ Contacts:
 
 [Session](https://getsession.org/): degenrocket
 
-Send a message on Session if you need help with setting up a server.
+Send us a message if you want to free your community from corporate chains.
+
+> [Not your keys, not your words.](https://degenrocket.space/news/0xbd934a01dc3bd9bb18)
+
