@@ -14,9 +14,11 @@ DegenRocket web instances:
 
 [dark.vegas](https://dark.vegas) (since 2023) - lunarpunk anti-memecoins (BLOOD, VAMPIRES).
 
-[simplifiedprivacy](https://vid.simplifiedprivacy.com) (since 2023) - Digital Freedom Platform covering Web 3, VPNs, Tor, Linux, Monero, etc.
+[simplifiedprivacy](https://vid.simplifiedprivacy.com) (down) - Digital Freedom Platform covering Web 3, VPNs, Tor, Linux, Monero, etc.
 
 [linked-out](https://linked-out.me/) (since 2024) - a Crypto-Agora community to reject the traditional internet & financial system.
+
+[rebelnet](https://rebelnet.me/) (since 2024) - Libertarian, AnCap, political news and cypherpunk tech.
 
 ---
 
@@ -28,7 +30,7 @@ Code:
 
 [degenrocket-scripts](https://github.com/degenrocket/degenrocket-scripts) - scripts for managing DegenRocket server
 
-[spasm.js](https://github.com/degenrocket/spasm.js) ([npm](https://www.npmjs.com/package/spasm.js))- tools for developing decentralized social media apps
+[spasm.js](https://github.com/degenrocket/spasm.js) ([npm](https://www.npmjs.com/package/spasm.js)) - tools for developing decentralized social media apps
 
 ---
 
