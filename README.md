@@ -1,32 +1,34 @@
-The Signer and Protocol Agnostic Social Media (SPASM) network consists of independent self-hosted interoperable instances run by DAOs, local communities, and other freedom seekers who want to escape censorship and surveillance of centralized platforms.
+The Signer and Protocol Agnostic Social Media (Spasm) network consists of independent self-hosted interoperable instances run by DAOs, local communities, and other freedom seekers who want to escape censorship and surveillance of centralized platforms.
 
-DegenRocket is the first free and open-source off-chain online forum within the Spasm network, which currently allows users to sign messages with Ethereum and Nostr private keys. More private keys are planned to be added in the future.
+DegenRocket (web + server) is the first Spasm-compatible implementation of a federated online forum that allows users to sign messages with Ethereum and Nostr private keys and send them to Spasm and Nostr networks. Users can also sign a message with multiple private keys simultaneously, taking advantage of both Ethereum and Nostr ecosystems. More private keys are planned to be added in the future.
 
-The future of social media is agnostic to signing keys, messaging protocols, and transport protocols. Users should be able to sign messages with any private key of their choice and trigger the propagation of those messages in any network they want via any transport protocol, or even all at once.
+The future of social media is agnostic to signing keys, messaging protocols, storage infrastructure and transport layer. Users should be able to sign messages with any private key of their choice and trigger the propagation of those messages in any network they want via any transport protocol, or even all at once.
 
-The Spasm network is the next step in the evolution of social media after various signature-based decentralized ecosystems like Secure Scuttlebutt, Steem/Hive, Nostr, Farcaster, Lens, etc.
+Spasm is the next step in the evolution of social media after various signature-based decentralized solutions like Secure Scuttlebutt, Steem/Hive, Nostr, Farcaster, Lens, Blue Sky, etc.
 
 ---
 
-DegenRocket web instances:
+Spasm web instances:
 
 [degenrocket.space](https://degenrocket.space) (since 2021) - DeFi, NFT, privacy news aggregator.
 
 [dark.vegas](https://dark.vegas) (since 2023) - lunarpunk anti-memecoins (BLOOD, VAMPIRES).
 
-[simplifiedprivacy](https://vid.simplifiedprivacy.com) (down) - Digital Freedom Platform covering Web 3, VPNs, Tor, Linux, Monero, etc.
-
-[linked-out](https://linked-out.me/) (since 2024) - a Crypto-Agora community to reject the traditional internet & financial system.
-
 [rebelnet](https://rebelnet.me/) (since 2024) - Libertarian, AnCap, political news and cypherpunk tech.
+
+Archive:
+
+[simplifiedprivacy](https://vid.simplifiedprivacy.com) (moved to rebelnet) - Digital Freedom Platform covering Web 3, VPNs, Tor, Linux, Monero, etc.
+
+[linked-out](https://linked-out.me/) (moved to rebelnet) - a Crypto-Agora community to reject the traditional internet & financial system.
 
 ---
 
 Code:
 
-[degenrocket-web](https://github.com/degenrocket/degenrocket-web) - web client (UI) for DegenRocket instance
+[degenrocket-web](https://github.com/degenrocket/degenrocket-web) - Spasm-compatible web client (UI)
 
-[degenrocket-server](https://github.com/degenrocket/degenrocket-server) - server (API) for DegenRocket instance
+[degenrocket-server](https://github.com/degenrocket/degenrocket-server) - Spasm-compatible server (API)
 
 [degenrocket-scripts](https://github.com/degenrocket/degenrocket-scripts) - scripts for managing DegenRocket server
 
