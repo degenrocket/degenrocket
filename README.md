@@ -16,6 +16,8 @@ Spasm web instances:
 
 [rebelnet](https://rebelnet.me/) (since 2024) - Libertarian, AnCap, political news and cypherpunk tech.
 
+[monero.top](https://monero.top) (since 2024) - Monero forum.
+
 Archive:
 
 [simplifiedprivacy](https://vid.simplifiedprivacy.com) (moved to rebelnet) - Digital Freedom Platform covering Web 3, VPNs, Tor, Linux, Monero, etc.
