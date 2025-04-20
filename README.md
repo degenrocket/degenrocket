@@ -20,12 +20,6 @@ Spasm instances:
 
 [forum.simplifiedprivacy.com](https://forum.simplifiedprivacy.com) (since 2024) - AnCap, libertarian news and cypherpunk tech.
 
-Archive:
-
-[simplifiedprivacy](https://vid.simplifiedprivacy.com) (merged into rebelnet)
-
-[linked-out](https://linked-out.me/) (merged into rebelnet)
-
 ---
 
 Tech:
