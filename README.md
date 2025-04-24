@@ -50,8 +50,6 @@ Contacts:
 
 [Session](https://getsession.org/): degenrocket
 
-[Lens](https://hey.xyz/u/degenrocket): degenrocket
-
 Send us a message if you want to free your community from corporate chains.
 
 > [not your keys, not your words](https://degenrocket.space/news/spasmid01192d1f9994bf436f50841)
