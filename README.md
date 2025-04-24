@@ -36,7 +36,7 @@ Tech:
 
 Docs:
 
-[dmp](https://github.com/degenrocket/dmp) - Degen Messaging Protocol
+[dmp](https://github.com/degenrocket/dmp) - Degen Messaging Protocol (deprecated)
 
 [spasm](https://github.com/degenrocket/spasm) - Signer and Protocol Agnostic Social Media
 
