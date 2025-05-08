@@ -50,7 +50,7 @@ Contacts:
 
 [Session](https://getsession.org/): degenrocket
 
-Send us a message if you want to free your community from corporate chains.
+Send a message on Session to join our private chat group.
 
 > [not your keys, not your words](https://degenrocket.space/news/spasmid01192d1f9994bf436f50841)
 
