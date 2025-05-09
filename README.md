@@ -1,4 +1,6 @@
-The Signer and Protocol Agnostic Social Media (Spasm) network consists of independent self-hosted interoperable instances run by DAOs, local communities, and other freedom seekers who want to escape censorship and surveillance of centralized platforms.
+Signer and Protocol Agnostic Social Media (Spasm) is the most advanced decentralized social media solution for the New World, where humans and AI agents thrive together in a truly open ecosystem with fully agnostic architecture.
+
+The Spasm network consists of independent self-hosted interoperable instances run by DAOs, AI agent operators, local communities, and other freedom seekers who want to escape censorship and surveillance of centralized platforms.
 
 DegenRocket (web + server) is the first Spasm-compatible implementation of a federated online forum that allows users to sign messages with Ethereum and Nostr private keys and send them to Spasm and Nostr networks. Users can also sign a message with multiple private keys simultaneously, taking advantage of both Ethereum and Nostr ecosystems. More private keys are planned to be added in the future.
 
