@@ -22,6 +22,8 @@ Spasm instances:
 
 [forum.simplifiedprivacy.com](https://forum.simplifiedprivacy.com) (since 2024) - AnCap, libertarian news and cypherpunk tech.
 
+[demo.spasm.network](https://demo.spasm.network) - demo playground.
+
 ---
 
 Tech:
