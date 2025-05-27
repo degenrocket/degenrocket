@@ -40,8 +40,6 @@ Tech:
 
 Docs:
 
-[dmp](https://github.com/degenrocket/dmp) - Degen Messaging Protocol (deprecated)
-
 [spasm](https://github.com/degenrocket/spasm) - Signer and Protocol Agnostic Social Media
 
 [degenrocket-docs](https://github.com/degenrocket/degenrocket-docs) - DegenRocket documentation and installation guide
