@@ -6,7 +6,7 @@ DegenRocket (web + server) is the first Spasm-compatible implementation of a fed
 
 The future of social media is agnostic to signing keys, messaging protocols, storage infrastructure and transport layer. Users should be able to sign messages with any private key of their choice and trigger the propagation of those messages in any network they want, via any transport protocol, or even all at once.
 
-Spasm is the next step in the evolution of social media after various signature-based decentralized solutions like Secure Scuttlebutt, Steem/Hive, Nostr, Farcaster, Lens, Blue Sky, etc.
+Spasm is the next step in the evolution of social media after various signature-based and blockchain-based decentralized solutions like Secure Scuttlebutt (SSB), Steem/Hive, Nostr, Farcaster, Lens, Bluesky, etc.
 
 Learn more: [spasm.network](https://spasm.network)
 
