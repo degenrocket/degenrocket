@@ -8,7 +8,14 @@ The future of social media is agnostic to signing keys, messaging protocols, sto
 
 Spasm is the next step in the evolution of social media after various signature-based and blockchain-based decentralized solutions like Secure Scuttlebutt (SSB), Steem/Hive, Nostr, Farcaster, Lens, Bluesky, etc.
 
-Learn more: [spasm.network](https://spasm.network)
+---
+
+About:
+
+[spasm.network](https://spasm.network) - official website
+
+[slides.spasm.network](https://slides.spasm.network) - slides
+
 
 ---
 
