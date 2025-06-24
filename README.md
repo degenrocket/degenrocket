@@ -49,6 +49,8 @@ Docs:
 
 [spasm](https://github.com/degenrocket/spasm) - Signer and Protocol Agnostic Social Media
 
+[spasm-slides](https://github.com/degenrocket/spasm-slides) - Spasm slides
+
 [degenrocket-docs](https://github.com/degenrocket/degenrocket-docs) - DegenRocket documentation and installation guide
 
 ---
