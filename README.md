@@ -41,7 +41,7 @@ Tech:
 
 [degenrocket-scripts](https://github.com/degenrocket/degenrocket-scripts) - scripts for managing DegenRocket server
 
-[spasm.js](https://github.com/degenrocket/spasm.js) ([npm](https://www.npmjs.com/package/spasm.js)) - tools for developing decentralized social media apps
+[spasm.js](https://github.com/degenrocket/spasm.js) ([npm](https://www.npmjs.com/package/spasm.js)) - tools for developing Spasm-compatible apps
 
 ---
 
