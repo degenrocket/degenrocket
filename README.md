@@ -16,20 +16,21 @@ About:
 
 [slides.spasm.network](https://slides.spasm.network) - slides
 
+[forum.spasm.network](https://forum.spasm.network) - forum
 
 ---
 
 Spasm instances:
 
-[degenrocket.space](https://degenrocket.space) (since 2021) - DeFi, NFT, privacy news aggregator.
+[degenrocket.space](https://degenrocket.space) (since 2021) - DeFi, NFT, privacy news aggregator
 
-[dark.vegas](https://dark.vegas) (since 2023) - lunarpunk anti-memecoins.
+[dark.vegas](https://dark.vegas) (since 2023) - lunarpunk forum
 
-[monero.top](https://monero.top) (since 2024) - Monero forum.
+[monero.top](https://monero.top) (since 2024) - Monero forum
 
-[forum.simplifiedprivacy.com](https://forum.simplifiedprivacy.com) (since 2024) - AnCap, libertarian news and cypherpunk tech.
+[forum.simplifiedprivacy.com](https://forum.simplifiedprivacy.com) (since 2024) - AnCap, libertarian news and cypherpunk tech
 
-[demo.spasm.network](https://demo.spasm.network) - demo playground.
+[demo.spasm.network](https://demo.spasm.network) - demo playground
 
 ---
 
